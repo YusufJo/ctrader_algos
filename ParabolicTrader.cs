@@ -4,7 +4,7 @@
 // Description: A trading algorithm for the CTrader platform.
 //              Uses the Parabolic SAR indicator to determine the market sentiment.
 //              Opens positions depending on sentiment signals, given a lot size.
-//              Determins the position size given the risk percentage of the capital, 
+//              Determines the position size given the risk percentage of the capital, 
 //              take profit, and stop loss in pips.
 
 using System;
